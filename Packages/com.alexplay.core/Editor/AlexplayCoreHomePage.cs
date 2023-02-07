@@ -9,5 +9,7 @@ namespace ACS.CoreEditor.Editor
         [Button(ButtonSizes.Large)]
         public void OpenFcknAwesomeDocs() => 
             AlexplayEditor.OpenDocumentation();
+        
+        //fix
     }
 }
