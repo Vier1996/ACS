@@ -1,0 +1,18 @@
+{
+    "name": "ACS.AnalyticsEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3078264faea74a147819b7f64d7def1c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

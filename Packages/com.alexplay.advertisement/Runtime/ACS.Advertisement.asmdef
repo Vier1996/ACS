@@ -1,0 +1,19 @@
+{
+    "name": "ACS.Advertisement",
+    "rootNamespace": "ACS.Ads",
+    "references": [
+        "ServicesConfigDefenition",
+        "UniTask",
+        "Core.Intent",
+        "IS"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
